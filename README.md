@@ -52,7 +52,7 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 ---
 
 ![Obrigado!](https://media.tenor.com/G5G9H5h-sUsAAAAj/scott-pilgrim-scot-pilgrim-vs-the-world.gif)
-
+Obrigado!
 
 <p align="center">
 </p>
