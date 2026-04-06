@@ -51,7 +51,7 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 
 ---
 
-![Obrigado!](https://tenor.com/pt-BR/view/scott-pilgrim-scot-pilgrim-vs-the-world-beat-em-up-sprite-animation-bass-player-gif-16665931)
+![Obrigado!](https://media.tenor.com/G5G9H5h-sUsAAAAj/scott-pilgrim-scot-pilgrim-vs-the-world.gif)
 
 
 <p align="center">
