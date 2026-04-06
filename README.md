@@ -1,7 +1,6 @@
 
 # 🧠 Lógica de Programação: Lista 1 - Algoritmos do Cotidiano
 
-![GitHub repo size](https://img.shields.io/github/repo-size/GTawer/Atv-Logaritimos?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
 
 Esta é a atividade inícial sobre Lógica de Programação do curso **Técnico em Desenvolvimento de Sistemas**. O foco aqui não é o código em si, mas o que realmente importa no início da jornada: a **Lógica de Programação**.
@@ -52,9 +51,8 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 
 ---
 
-<p align="center">
-  <img src="https://tenor.com/pt-BR/view/scott-pilgrim-scot-pilgrim-vs-the-world-beat-em-up-sprite-animation-bass-player-gif-16665931" alt="Obrigado!" width="400">
-</p>
+![Obrigado!](https://tenor.com/pt-BR/view/scott-pilgrim-scot-pilgrim-vs-the-world-beat-em-up-sprite-animation-bass-player-gif-16665931)
+
 
 <p align="center">
 </p>
