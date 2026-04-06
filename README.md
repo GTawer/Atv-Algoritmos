@@ -39,8 +39,8 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 
 ## 📂 Estrutura do Repositório
 
-* `/pseudocodigos`: Arquivos contendo a lógica escrita de forma estruturada.
-* `/fluxogramas`: Representações visuais do fluxo de cada tarefa.
+* `pseudocodigos`: Arquivos contendo a lógica escrita de forma estruturada.
+* `fluxogramas`: Representações visuais do fluxo de cada tarefa.
 
 ---
 
