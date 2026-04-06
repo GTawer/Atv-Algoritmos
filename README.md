@@ -53,7 +53,7 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 ---
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/scott-pilgrim-scot-pilgrim-vs-the-world-beat-em-up-sprite-animation-bass-player-gif-16665931" alt="Mãos na massa" width="400">
+  <img src="https://tenor.com/pt-BR/view/scott-pilgrim-scot-pilgrim-vs-the-world-beat-em-up-sprite-animation-bass-player-gif-16665931" alt="Obrigado!" width="400">
 </p>
 
 <p align="center">
