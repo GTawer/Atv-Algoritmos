@@ -51,7 +51,7 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 
 
 ![Obrigado!](https://media.tenor.com/G5G9H5h-sUsAAAAj/scott-pilgrim-scot-pilgrim-vs-the-world.gif)
-![Obrigado!](https://i.pinimg.com/originals/8e/48/18/8e4818c0ef743bd0548d0ec86d42835b.gif)
+![Obrigado!](https://media.tenor.com/ZxWPw_XSVi8AAAAi/wallacewells.gif)
 
 
 <p align="center">
