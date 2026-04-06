@@ -30,9 +30,9 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 
 ---
 
-## ⚠️ Regras de Ouro Aplicadas
+## ⚠️ Regras Importantes 
 
-> **Atenção aos Detalhes:** Lógica é precisão. Se o passo a passo for vago, o algoritmo falha.
+> **Atenção aos Detalhes:** Lógica é precisão. Se o passo a passo for vago, o algoritmo falha. Mas ainda assim apenas o assencial
 > **Estrutura:** Todas as tarefas seguem a ordem: Entrada -> Processamento -> Saída.
 
 ---
@@ -51,8 +51,8 @@ Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhu
 
 
 ![Obrigado!](https://media.tenor.com/G5G9H5h-sUsAAAAj/scott-pilgrim-scot-pilgrim-vs-the-world.gif)
+![Obrigado!](https://i.pinimg.com/originals/8e/48/18/8e4818c0ef743bd0548d0ec86d42835b.gif)
 
-Obrigado!
 
 <p align="center">
 </p>
