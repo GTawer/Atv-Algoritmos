@@ -13,13 +13,13 @@ O desafio consistiu em transformar tarefas rotineiras em processos estruturados,
 
 Para cada item abaixo, foi elaborado um algoritmo completo, garantindo que nenhuma etapa fosse pulada.
 
-### 1. Ir ao Trabalho 🚶‍♂️🏢
+### 1. Ir ao Trabalho 🚶‍♂️
 * **Foco:** Check-list de saída e organização.
 
 ### 2. Troca de Pneu de Carro 🚗🔧
 * **Foco:** Segurança e sequência mecânica.
 
-### 3. Troca de Lâmpada 💡🪜
+### 3. Troca de Lâmpada 💡
 * **Foco:** Resolução de problemas simples.
 
 ### 4. Pegar um Ônibus 🚌💳
